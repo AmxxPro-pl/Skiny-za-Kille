@@ -35,6 +35,7 @@ new const awpki[][][] =
 ### ScreenShots
 
 <details>
+	<summary><b>Zdjęcia przedstawiające podstawowe działanie pluginu:</b></summary>
 - Główne menu skinów:
 	
 <img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/skiny_menu.png"></img>
