@@ -42,7 +42,7 @@ new const awpki[][][] =
 - Przykładowe menu ze skinami kosy:
 <img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/skiny_kosa.png"></img>
 - Wiadomość gdy skin się ustawił:
-<img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/ustawienie_skina.png.png"></img>
+<img width="427" height="42" src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/ustawienie_skina.png"></img>
 - Wiadomość gdy nie posiadamy odpowiedniej ilości killi:
-<img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/blad_ustawienia.png"></img>
+<img width="427" height="42" src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/blad_ustawienia.png"></img>
 </details>
