@@ -14,19 +14,19 @@ new const kosy[][][] =
 {
 //      {"cena - kille", "nazwa kosy (najlepiej aby nie byla za dluga)", "sciezka do kosy"}
 //      Jezeli wpisze sie cene 1 to skin bedzie dla VIP
-	      {"0", "Podstawowa Kosa", "models/v_knife.mdl"},												
+	{"0", "Podstawowa Kosa", "models/v_knife.mdl"},												
         {"150", "Kosa 1", "models/AmxxProPL/noz/v_knife_1.mdl"},
-	      {"200", "Kosa 2", "models/AmxxProPL/noz/v_knife_2.mdl"},
-	      {"1", "Kosa 3", "models/AmxxProPL/noz/v_knife_3.mdl"}
+	{"200", "Kosa 2", "models/AmxxProPL/noz/v_knife_2.mdl"},
+	{"1", "Kosa 3", "models/AmxxProPL/noz/v_knife_3.mdl"}
 }
 new const awpki[][][] =
 {
 //      {"cena - kille", "nazwa awp (najlepiej aby nie byla za dluga)", "sciezka do awp"}
 //      Jezeli wpisze sie cene 1 to skin bedzie dla VIP
-	      {"0", "Podstawowa AWP", "models/v_awp.mdl"},												
+	{"0", "Podstawowa AWP", "models/v_awp.mdl"},												
         {"150", "AWP 1", "models/AmxxProPL/awp/v_awp_1.mdl"},
-	      {"200", "AWP 2", "models/AmxxProPL/awp/v_awp_2.mdl"},
-	       {"1", "AWP 3", "models/AmxxProPL/awp/v_awp_3.mdl"}
+	{"200", "AWP 2", "models/AmxxProPL/awp/v_awp_2.mdl"},
+	{"1", "AWP 3", "models/AmxxProPL/awp/v_awp_3.mdl"}
 }
 
 ```
