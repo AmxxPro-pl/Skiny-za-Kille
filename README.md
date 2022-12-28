@@ -35,9 +35,14 @@ new const awpki[][][] =
 ### ScreenShots
 
 <details>
-![blad_ustawienia](https://user-images.githubusercontent.com/97614390/209820253-6c7fa131-3bba-4d88-9224-2025fad070ca.png)
-![skiny_awp](https://user-images.githubusercontent.com/97614390/209820257-61e26315-80d6-45e2-b7c0-ad17a68a41b0.png)
-![skiny_kosa](https://user-images.githubusercontent.com/97614390/209820258-fa7894d3-c1f1-4a0b-b601-4a5d360dc909.png)
-![skiny_menu](https://user-images.githubusercontent.com/97614390/209820261-87fd2f23-07c1-4db1-89e6-0bf422a252a3.png)
-![ustawienie_skina](https://user-images.githubusercontent.com/97614390/209820263-e444b21e-9984-4c8e-88a7-395f758a6ba5.png)
+- Główne menu skinów:
+<img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/skiny_menu.png"></img>
+- Przykładowe menu ze skinami awp:
+<img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/skiny_awp.png"></img>
+- Przykładowe menu ze skinami kosy:
+<img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/skiny_kosa.png"></img>
+- Wiadomość gdy skin się ustawił:
+<img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/ustawienie_skina.png.png"></img>
+- Wiadomość gdy nie posiadamy odpowiedniej ilości killi:
+<img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/blad_ustawienia.png"></img>
 </details>
