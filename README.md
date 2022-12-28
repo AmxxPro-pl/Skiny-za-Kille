@@ -1,5 +1,7 @@
 # Skiny za Kille
 
+<b> Podstawowy opis pluginu Skiny za Kille (aby samemu sprawdzić plugin zgłoś się do właściciela poprzez discorda)
+	
 ## Compatibility
 - 1.8.3-dev+5142
 - 1.9-dev+5235
