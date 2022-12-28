@@ -36,13 +36,23 @@ new const awpki[][][] =
 
 <details>
 - Główne menu skinów:
+	
 <img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/skiny_menu.png"></img>
+
 - Przykładowe menu ze skinami awp:
+- 
 <img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/skiny_awp.png"></img>
+
 - Przykładowe menu ze skinami kosy:
+- 
 <img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/skiny_kosa.png"></img>
+
 - Wiadomość gdy skin się ustawił:
+- 
 <img width="427" height="42" src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/ustawienie_skina.png"></img>
+
 - Wiadomość gdy nie posiadamy odpowiedniej ilości killi:
+- 
 <img width="427" height="42" src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/blad_ustawienia.png"></img>
+
 </details>
