@@ -52,10 +52,10 @@ new const awpki[][][] =
 
 - Wiadomość gdy skin się ustawił:
 
-<img width="427" height="42" src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/ustawienie_skina.png"></img>
+<img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/ustawienie_skina.png"></img>
 
 - Wiadomość gdy nie posiadamy odpowiedniej ilości killi:
 
-<img width="427" height="42" src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/blad_ustawienia.png"></img>
+<img src="https://github.com/N1K1Cz/Skiny-za-Kille/blob/main/png/blad_ustawienia.png"></img>
 
 </details>
