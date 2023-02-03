@@ -1,12 +1,17 @@
-# Skiny za Kille
+<div align="center">
+<h1><p></p>Skiny za Kille<p></p></h1>
+<img src="https://github.com/AmxxPro-pl/.github/blob/main/Banner.png"></img>
+</div>
+
+---
 
 <b> Podstawowy opis pluginu Skiny za Kille (aby samemu sprawdzić plugin zgłoś się do właściciela poprzez discorda)
 	
-## Compatibility
+### Compatibility
 - 1.8.3-dev+5142
 - 1.9-dev+5235
 
-## Configuration
+### Configuration
 
 <details>
   <summary><b>Skiny</b></summary>
